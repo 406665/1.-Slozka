@@ -1,1 +1,3 @@
 # 1.-Slozka
+
+Tento repozitáø jsem si založila ke splnìní úkolu. 
