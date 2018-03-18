@@ -1,0 +1,43 @@
+
+
+    
+    body {
+      text-align: center;
+      font-family: sans-serif;
+      background-color: black;
+      line-height: 2; 
+
+
+
+    }
+
+     h1 {
+  
+      color: yellow;
+      text-decoration: underline;
+      text-decoration-color: blue;
+      text-decoration-style: double;
+
+    }
+
+    h2 {
+      color: yellow;
+    }
+
+     p.zanr  {
+
+     color: blue;
+     font-size: xx-large;
+
+
+     }
+     
+    p {
+      color: white;
+    }
+
+    i {
+      font-style: italic;
+    }
+
+
