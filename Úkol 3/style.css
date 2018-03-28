@@ -4,40 +4,43 @@
     body {
       text-align: center;
       font-family: sans-serif;
-      background-color: black;
+      background-color: #a6a6a6;
       line-height: 2; 
-
-
+      color: white;
 
     }
 
      h1 {
-  
+  	  font-size: 50px;
       color: yellow;
       text-decoration: underline;
-      text-decoration-color: blue;
+      text-decoration-color: #000066;
       text-decoration-style: double;
 
     }
 
     h2 {
       color: yellow;
+      font-size: 40px;
     }
 
      p.zanr  {
 
-     color: blue;
-     font-size: xx-large;
-
+     color: #000066;
+     font-size: 40px;
 
      }
      
-    p {
-      color: white;
-    }
-
+    
     i {
       font-style: italic;
     }
+    blockquote {
+    	font-style: italic;
 
+    }
+    footer {
+    	color: black;
+    	font-size: 30px;
+    }
 
